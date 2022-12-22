@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Redciclabol_Auth</string>
+    <string name="facebook_app_id">3264309277115653</string>
+    <string name="fb_login_protocol_scheme">fb3264309277115653</string>
+    <string name="facebook_client_token">418a3b5ee30511f2496a76929983bfba</string>
+</resources>
